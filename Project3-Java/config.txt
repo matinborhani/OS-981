@@ -1,0 +1,3 @@
+sizeOfProcess:10000
+sizeOfPage:100
+sizeRam:1000
