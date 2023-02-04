@@ -33,6 +33,9 @@
   * https://www.geeksforgeeks.org/java-util-concurrent-semaphore-class-java/
   * https://www.baeldung.com/java-semaphore
   * https://docs.python.org/2.0/lib/semaphore-objects.html
+  
+  ## اسلایدهای درس
+  در پوشه اسلایدها فصول 1 تا 8 موجود می باشد.
 * فایل های تحویلی شامل سورس کد و توضیحی از مراحل انجام کار باشد.
 * محدودیتی در انتخاب زبان برنامه نویسی وجود ندارد ولی ترجیحا  از زبان های **جاوا**  و **پایتون**  استفاده شود.
 * توضیحات بیشتر در فایل پی دی اف پروژه موجود است.
